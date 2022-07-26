@@ -1,0 +1,8 @@
+c) Initialization and Constructor function
+a) The destroy() method is called only once at the end of the life cycle of a filter
+B - request.getAttributeNames() 
+B - response.setContentType(type) 
+A - request.getSession() 
+D. All of the above 
+A. goGet 
+A. Session are never invalidated
